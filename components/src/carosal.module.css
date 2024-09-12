@@ -1,0 +1,7 @@
+.carosal {
+    width: 400px;
+    height: 300px;
+    background: #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 12px orange;
+}
